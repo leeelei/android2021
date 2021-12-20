@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6720cd08-d391-4aaa-bba5-a27d334fa6ef" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="ProjectId" id="22PaeBJZDgQqNnPVmS5g5fS3CS9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="D:/AndroidSDK" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6720cd08-d391-4aaa-bba5-a27d334fa6ef" name="Default Changelist" comment="" />
+      <created>1639741768611</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639741768611</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="198" key="#PSD" timestamp="1639742039189">
+      <screen x="0" y="0" width="1440" height="960" />
+    </state>
+    <state x="223" y="198" key="#PSD/0.0.1440.960@0.0.1440.960" timestamp="1639742039189" />
+    <state x="151" y="172" key="com.intellij.ide.util.TipDialog" timestamp="1639800593738">
+      <screen x="0" y="0" width="1440" height="960" />
+    </state>
+    <state x="151" y="172" key="com.intellij.ide.util.TipDialog/0.0.1440.960@0.0.1440.960" timestamp="1639800593738" />
+    <state x="401" y="81" width="638" height="798" key="find.popup" timestamp="1639742687291">
+      <screen x="0" y="0" width="1440" height="960" />
+    </state>
+    <state x="401" y="81" width="638" height="798" key="find.popup/0.0.1440.960@0.0.1440.960" timestamp="1639742687291" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/duan/musicoco/modle/SongInfo.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

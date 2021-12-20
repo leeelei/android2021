@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <include layout="@layout/title"/>
+    <Button
+        android:id="@+id/relative1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="relative1"
+        />
+    <Button
+        android:id="@+id/relative2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="relative2"
+        />
+    <Button
+        android:id="@+id/frameLayoutId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="frameLayoutDemo"
+        />
+
+    <Button
+        android:id="@+id/frameLayoutId2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="frameLayoutDemo2"
+        />
+    <Button
+        android:id="@+id/progress_bar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="progress_bar"
+        />
+    <Button
+        android:id="@+id/progress_animation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="progress_animation"
+        />
+    <!--
+    <com.example.uilayoutrelativetest.TitleLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+-->
+    <Button
+        android:id="@+id/btnLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="PuredJavaLayout"
+        />
+    <Button
+        android:id="@+id/dynamic_load"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="dynamic_load"
+        />
+    <Button
+        android:id="@+id/xmlLayoutActivity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="XMLLayoutActivity"
+        />
+</LinearLayout>
