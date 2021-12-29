@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/XiaoBai_Weather-master.iml" filepath="$PROJECT_DIR$/.idea/modules/XiaoBai_Weather-master.iml" group="XiaoBai_Weather-master" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/XiaoBai_Weather-master-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/XiaoBai_Weather-master-app.iml" group="XiaoBai_Weather-master/app" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiaobai_coolweather.iml" filepath="$PROJECT_DIR$/xiaobai_coolweather.iml" />
+    </modules>
+  </component>
+</project>

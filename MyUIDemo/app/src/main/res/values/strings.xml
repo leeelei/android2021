@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyUIDemo</string>
+    <string name="login_title">XX管理系统</string>
+    <string name="hint_username">用户名:</string>
+    <string name="hint_password">密码:</string>
+    <string name="copy_right_information">2021 © XX管理系统</string>
+
+</resources>

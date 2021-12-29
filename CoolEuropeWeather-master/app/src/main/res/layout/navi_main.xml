@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <View
+        android:id="@+id/navi_titleview"
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:background="@color/Asuka"
+        android:visibility="gone" />
+
+    <RelativeLayout
+        android:id="@+id/rl_title2"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:background="@color/Asuka">
+
+        <ImageView
+            android:id="@+id/image_back"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:scaleType="centerInside"
+            android:src="@mipmap/ic_back" />
+
+        <TextView
+            android:id="@+id/text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:gravity="center"
+            android:text="中国"
+            android:textColor="@color/colorWhite"
+            android:textSize="17sp" />
+
+    </RelativeLayout>
+
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+
+</LinearLayout>

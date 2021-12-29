@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/btn_dialog_one"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="textStart"
+        android:text="1、显示一个普通的DIALOG"/>
+    <Button
+        android:id="@+id/btn_dialog_two"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="textStart"
+        android:text="2、显示一个普通列表的DIALOG"/>
+    <Button
+        android:id="@+id/btn_dialog_three"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="textStart"
+        android:text="3、显示一个带单选按钮的DIALOG"/>
+    <Button
+        android:id="@+id/btn_dialog_four"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="textStart"
+        android:text="4、显示一个带多选按钮的DIALOG"/>
+    <Button
+        android:id="@+id/btn_show"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="textStart"
+        android:text="4、显示一个自定义的DIALOG"/>
+
+    <Button
+        android:id="@+id/btn_progress_one"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="textStart"
+        android:text="1、普通的圆形进度条对话框"/>
+
+    <Button
+        android:id="@+id/btn_progress_two"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="textStart"
+        android:text="2、定义一个带条形的进度条对话框，但不更新"/>
+
+    <Button
+        android:id="@+id/btn_progress_three"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="textStart"
+        android:text="2、定义一个带更新的进度条对话框"/>
+
+</LinearLayout>
